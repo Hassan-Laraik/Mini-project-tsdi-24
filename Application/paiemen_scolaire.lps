@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="paiemen_scolaire.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Paiemen_Scolaire"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Principale/uprincipale.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FrmPrincipale"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uPrincipale"/>
+        <TopLine Value="31"/>
+        <CursorPos X="3" Y="47"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Configuration/uconfiguration.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FrmConfiguration"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uConfiguration"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="33" Y="14"/>
+        <UsageCount Value="20"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Stagiaires/ustagiaires.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FrmStagiaires"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uStagiaires"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="49"/>
+        <CursorPos X="43" Y="66"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="22">
+      <Position>
+        <Filename Value="Principale/uprincipale.pas"/>
+      </Position>
+      <Position>
+        <Filename Value="Principale/uprincipale.pas"/>
+        <Caret Line="33" Column="22" TopLine="15"/>
+      </Position>
+      <Position>
+        <Filename Value="Principale/uprincipale.pas"/>
+        <Caret Line="34" Column="33" TopLine="23"/>
+      </Position>
+      <Position>
+        <Filename Value="Principale/uprincipale.pas"/>
+        <Caret Line="47" Column="3" TopLine="29"/>
+      </Position>
+      <Position>
+        <Filename Value="Stagiaires/ustagiaires.pas"/>
+        <Caret Column="17"/>
+      </Position>
+      <Position>
+        <Filename Value="Principale/uprincipale.pas"/>
+        <Caret Line="47" Column="52" TopLine="31"/>
+      </Position>
+      <Position>
+        <Filename Value="Stagiaires/ustagiaires.pas"/>
+        <Caret Column="17"/>
+      </Position>
+      <Position>
+        <Filename Value="Stagiaires/ustagiaires.pas"/>
+        <Caret Line="50" Column="43" TopLine="33"/>
+      </Position>
+      <Position>
+        <Filename Value="Stagiaires/ustagiaires.pas"/>
+        <Caret Line="51" Column="43" TopLine="34"/>
+      </Position>
+      <Position>
+        <Filename Value="Stagiaires/ustagiaires.pas"/>
+        <Caret Line="52" Column="43" TopLine="35"/>
+      </Position>
+      <Position>
+        <Filename Value="Stagiaires/ustagiaires.pas"/>
+        <Caret Line="53" Column="43" TopLine="36"/>
+      </Position>
+      <Position>
+        <Filename Value="Stagiaires/ustagiaires.pas"/>
+        <Caret Line="54" Column="43" TopLine="37"/>
+      </Position>
+      <Position>
+        <Filename Value="Stagiaires/ustagiaires.pas"/>
+        <Caret Line="55" Column="43" TopLine="38"/>
+      </Position>
+      <Position>
+        <Filename Value="Stagiaires/ustagiaires.pas"/>
+        <Caret Line="56" Column="43" TopLine="39"/>
+      </Position>
+      <Position>
+        <Filename Value="Stagiaires/ustagiaires.pas"/>
+        <Caret Line="57" Column="43" TopLine="40"/>
+      </Position>
+      <Position>
+        <Filename Value="Stagiaires/ustagiaires.pas"/>
+        <Caret Line="58" Column="43" TopLine="41"/>
+      </Position>
+      <Position>
+        <Filename Value="Stagiaires/ustagiaires.pas"/>
+        <Caret Line="59" Column="43" TopLine="42"/>
+      </Position>
+      <Position>
+        <Filename Value="Stagiaires/ustagiaires.pas"/>
+        <Caret Line="60" Column="43" TopLine="43"/>
+      </Position>
+      <Position>
+        <Filename Value="Stagiaires/ustagiaires.pas"/>
+        <Caret Line="61" Column="43" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="Stagiaires/ustagiaires.pas"/>
+        <Caret Line="62" Column="43" TopLine="45"/>
+      </Position>
+      <Position>
+        <Filename Value="Stagiaires/ustagiaires.pas"/>
+        <Caret Line="63" Column="43" TopLine="46"/>
+      </Position>
+      <Position>
+        <Filename Value="Stagiaires/ustagiaires.pas"/>
+        <Caret Line="64" Column="43" TopLine="47"/>
+      </Position>
+      <Position>
+        <Filename Value="Stagiaires/ustagiaires.pas"/>
+        <Caret Line="65" Column="43" TopLine="48"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
