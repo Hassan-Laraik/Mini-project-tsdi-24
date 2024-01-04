@@ -1,5 +1,6 @@
-Application/Configuration/
-Application/Principale/backup/
-Application/Stagiaires/backup/
-Application/backup/
-Application/lib/
+Application/Configuration/backup
+Application/Principale/backup
+Application/Stagiaires/backup
+Application/backup
+Application/lib
+Application/paiement_scolaire
