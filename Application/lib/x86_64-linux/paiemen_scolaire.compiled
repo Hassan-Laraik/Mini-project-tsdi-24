@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CONFIG>
-  <Compiler Value="/usr/bin/fpc" Date="1625802185"/>
-  <Params Value=" -MObjFPC -Scghi -Cg -O1 -gw3 -gl -l -vewnhibq -Fi/home/hassan/Bureau/Mini-projet/Application/lib/x86_64-linux -Fu/home/hassan/Bureau/Mini-projet/Application/Principale -Fu/home/hassan/Bureau/Mini-projet/Application/Configuration -Fu/home/hassan/Bureau/Mini-projet/Application/Stagiaires -Fu/usr/share/lazarus/3.0.0/lcl/units/x86_64-linux/gtk2 -Fu/usr/share/lazarus/3.0.0/lcl/units/x86_64-linux -Fu/usr/share/lazarus/3.0.0/components/freetype/lib/x86_64-linux -Fu/usr/share/lazarus/3.0.0/components/lazutils/lib/x86_64-linux -Fu/usr/share/lazarus/3.0.0/packager/units/x86_64-linux -Fu/home/hassan/Bureau/Mini-projet/Application/ -FU/home/hassan/Bureau/Mini-projet/Application/lib/x86_64-linux/ -FE/home/hassan/Bureau/Mini-projet/Application/ -o/home/hassan/Bureau/Mini-projet/Application/paiemen_scolaire -dLCL -dLCLgtk2 paiemen_scolaire.lpr"/>
-</CONFIG>
