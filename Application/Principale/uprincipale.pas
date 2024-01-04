@@ -5,7 +5,8 @@ unit uPrincipale;
 interface
 
 uses
-  Classes, SysUtils, Forms, Controls, Graphics, Dialogs, ExtCtrls, StdCtrls;
+  Classes, SysUtils, DB, Forms, Controls, Graphics, Dialogs, ExtCtrls, StdCtrls,
+  DBGrids, DBCtrls, ZConnection, ZDataset;
 
 type
 
@@ -20,6 +21,7 @@ type
     Panel2: TPanel;
     Panel3: TPanel;
     procedure BtnconfigurationClick(Sender: TObject);
+    procedure BtnInscriptionClick(Sender: TObject);
     procedure BtnStagiaireClick(Sender: TObject);
   private
 
@@ -31,7 +33,7 @@ var
   FrmPrincipale: TFrmPrincipale;
 
 implementation
- uses uConfiguration,uStagiaires;
+ uses uConfiguration,uStagiaires, uInscription;
 {$R *.lfm}
 
  { TFrmPrincipale }
@@ -40,6 +42,11 @@ implementation
  begin
    FrmConfiguration.ShowModal;
  end;
+
+procedure TFrmPrincipale.BtnInscriptionClick(Sender: TObject);
+begin
+  FrmInscription.ShowModal;
+end;
 
 procedure TFrmPrincipale.BtnStagiaireClick(Sender: TObject);
 begin

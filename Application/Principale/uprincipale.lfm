@@ -8,6 +8,7 @@ object FrmPrincipale: TFrmPrincipale
   ClientWidth = 807
   DesignTimePPI = 81
   LCLVersion = '3.0.0.1'
+  WindowState = wsMaximized
   object Panel1: TPanel
     Left = 0
     Height = 42
@@ -43,6 +44,7 @@ object FrmPrincipale: TFrmPrincipale
       Width = 190
       Align = alTop
       Caption = 'Inscriptions...'
+      OnClick = BtnInscriptionClick
       TabOrder = 0
     end
     object BtnStagiaire: TButton

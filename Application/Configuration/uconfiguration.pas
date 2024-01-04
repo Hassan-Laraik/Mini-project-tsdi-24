@@ -6,7 +6,7 @@ interface
 
 uses
   Classes, SysUtils, Forms, Controls, Graphics, Dialogs, ComCtrls, DBGrids,
-  DBCtrls;
+  DBCtrls, ExtCtrls;
 
 type
 
@@ -18,6 +18,7 @@ type
     DBNavigator1: TDBNavigator;
     DBNavigator2: TDBNavigator;
     PageControl1: TPageControl;
+    Panel1: TPanel;
     TabSheet1: TTabSheet;
     TabSheet2: TTabSheet;
   private

@@ -12,17 +12,18 @@
         <WindowIndex Value="-1"/>
         <TopLine Value="-1"/>
         <CursorPos X="-1" Y="-1"/>
-        <UsageCount Value="20"/>
+        <UsageCount Value="23"/>
       </Unit>
       <Unit>
         <Filename Value="Principale/uprincipale.pas"/>
         <IsPartOfProject Value="True"/>
         <ComponentName Value="FrmPrincipale"/>
+        <HasResources Value="True"/>
         <ResourceBaseClass Value="Form"/>
         <UnitName Value="uPrincipale"/>
-        <TopLine Value="31"/>
-        <CursorPos X="3" Y="47"/>
-        <UsageCount Value="20"/>
+        <TopLine Value="35"/>
+        <CursorPos X="27" Y="48"/>
+        <UsageCount Value="23"/>
         <Loaded Value="True"/>
         <LoadedDesigner Value="True"/>
       </Unit>
@@ -30,117 +31,162 @@
         <Filename Value="Configuration/uconfiguration.pas"/>
         <IsPartOfProject Value="True"/>
         <ComponentName Value="FrmConfiguration"/>
+        <HasResources Value="True"/>
         <ResourceBaseClass Value="Form"/>
         <UnitName Value="uConfiguration"/>
         <EditorIndex Value="-1"/>
         <CursorPos X="33" Y="14"/>
-        <UsageCount Value="20"/>
+        <UsageCount Value="23"/>
       </Unit>
       <Unit>
         <Filename Value="Stagiaires/ustagiaires.pas"/>
         <IsPartOfProject Value="True"/>
         <ComponentName Value="FrmStagiaires"/>
+        <HasResources Value="True"/>
         <ResourceBaseClass Value="Form"/>
         <UnitName Value="uStagiaires"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="44"/>
+        <CursorPos X="54" Y="67"/>
+        <UsageCount Value="23"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Inscription/uinscription.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FrmInscription"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uInscription"/>
         <IsVisibleTab Value="True"/>
         <EditorIndex Value="1"/>
-        <TopLine Value="49"/>
-        <CursorPos X="43" Y="66"/>
-        <UsageCount Value="20"/>
+        <TopLine Value="58"/>
+        <CursorPos X="37" Y="64"/>
+        <UsageCount Value="22"/>
         <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
       </Unit>
     </Units>
-    <JumpHistory HistoryIndex="22">
+    <JumpHistory HistoryIndex="29">
       <Position>
-        <Filename Value="Principale/uprincipale.pas"/>
+        <Filename Value="Inscription/uinscription.pas"/>
+        <Caret Line="42" Column="37" TopLine="36"/>
       </Position>
       <Position>
-        <Filename Value="Principale/uprincipale.pas"/>
-        <Caret Line="33" Column="22" TopLine="15"/>
+        <Filename Value="Inscription/uinscription.pas"/>
+        <Caret Line="43" Column="37" TopLine="37"/>
       </Position>
       <Position>
-        <Filename Value="Principale/uprincipale.pas"/>
-        <Caret Line="34" Column="33" TopLine="23"/>
+        <Filename Value="Inscription/uinscription.pas"/>
+        <Caret Line="44" Column="37" TopLine="38"/>
       </Position>
       <Position>
-        <Filename Value="Principale/uprincipale.pas"/>
-        <Caret Line="47" Column="3" TopLine="29"/>
+        <Filename Value="Inscription/uinscription.pas"/>
+        <Caret Line="45" Column="37" TopLine="39"/>
       </Position>
       <Position>
-        <Filename Value="Stagiaires/ustagiaires.pas"/>
-        <Caret Column="17"/>
+        <Filename Value="Inscription/uinscription.pas"/>
+        <Caret Line="46" Column="37" TopLine="40"/>
       </Position>
       <Position>
-        <Filename Value="Principale/uprincipale.pas"/>
-        <Caret Line="47" Column="52" TopLine="31"/>
+        <Filename Value="Inscription/uinscription.pas"/>
+        <Caret Line="47" Column="37" TopLine="41"/>
       </Position>
       <Position>
-        <Filename Value="Stagiaires/ustagiaires.pas"/>
-        <Caret Column="17"/>
+        <Filename Value="Inscription/uinscription.pas"/>
+        <Caret Line="46" Column="37" TopLine="40"/>
       </Position>
       <Position>
-        <Filename Value="Stagiaires/ustagiaires.pas"/>
-        <Caret Line="50" Column="43" TopLine="33"/>
+        <Filename Value="Inscription/uinscription.pas"/>
+        <Caret Line="47" Column="37" TopLine="41"/>
       </Position>
       <Position>
-        <Filename Value="Stagiaires/ustagiaires.pas"/>
-        <Caret Line="51" Column="43" TopLine="34"/>
+        <Filename Value="Inscription/uinscription.pas"/>
+        <Caret Line="48" Column="37" TopLine="42"/>
       </Position>
       <Position>
-        <Filename Value="Stagiaires/ustagiaires.pas"/>
-        <Caret Line="52" Column="43" TopLine="35"/>
+        <Filename Value="Inscription/uinscription.pas"/>
+        <Caret Line="49" Column="37" TopLine="43"/>
       </Position>
       <Position>
-        <Filename Value="Stagiaires/ustagiaires.pas"/>
-        <Caret Line="53" Column="43" TopLine="36"/>
+        <Filename Value="Inscription/uinscription.pas"/>
+        <Caret Line="50" Column="37" TopLine="44"/>
       </Position>
       <Position>
-        <Filename Value="Stagiaires/ustagiaires.pas"/>
-        <Caret Line="54" Column="43" TopLine="37"/>
+        <Filename Value="Inscription/uinscription.pas"/>
+        <Caret Line="51" Column="37" TopLine="45"/>
       </Position>
       <Position>
-        <Filename Value="Stagiaires/ustagiaires.pas"/>
-        <Caret Line="55" Column="43" TopLine="38"/>
+        <Filename Value="Inscription/uinscription.pas"/>
+        <Caret Line="52" Column="37" TopLine="46"/>
       </Position>
       <Position>
-        <Filename Value="Stagiaires/ustagiaires.pas"/>
-        <Caret Line="56" Column="43" TopLine="39"/>
+        <Filename Value="Inscription/uinscription.pas"/>
+        <Caret Line="53" Column="37" TopLine="47"/>
       </Position>
       <Position>
-        <Filename Value="Stagiaires/ustagiaires.pas"/>
-        <Caret Line="57" Column="43" TopLine="40"/>
+        <Filename Value="Inscription/uinscription.pas"/>
+        <Caret Line="54" Column="37" TopLine="48"/>
       </Position>
       <Position>
-        <Filename Value="Stagiaires/ustagiaires.pas"/>
-        <Caret Line="58" Column="43" TopLine="41"/>
+        <Filename Value="Inscription/uinscription.pas"/>
+        <Caret Line="55" Column="37" TopLine="49"/>
       </Position>
       <Position>
-        <Filename Value="Stagiaires/ustagiaires.pas"/>
-        <Caret Line="59" Column="43" TopLine="42"/>
+        <Filename Value="Inscription/uinscription.pas"/>
+        <Caret Line="56" Column="37" TopLine="50"/>
       </Position>
       <Position>
-        <Filename Value="Stagiaires/ustagiaires.pas"/>
-        <Caret Line="60" Column="43" TopLine="43"/>
+        <Filename Value="Inscription/uinscription.pas"/>
+        <Caret Line="57" Column="37" TopLine="51"/>
       </Position>
       <Position>
-        <Filename Value="Stagiaires/ustagiaires.pas"/>
-        <Caret Line="61" Column="43" TopLine="44"/>
+        <Filename Value="Inscription/uinscription.pas"/>
+        <Caret Line="58" Column="37" TopLine="52"/>
       </Position>
       <Position>
-        <Filename Value="Stagiaires/ustagiaires.pas"/>
-        <Caret Line="62" Column="43" TopLine="45"/>
+        <Filename Value="Inscription/uinscription.pas"/>
+        <Caret Line="59" Column="37" TopLine="53"/>
       </Position>
       <Position>
-        <Filename Value="Stagiaires/ustagiaires.pas"/>
-        <Caret Line="63" Column="43" TopLine="46"/>
+        <Filename Value="Inscription/uinscription.pas"/>
+        <Caret Line="58" Column="37" TopLine="52"/>
       </Position>
       <Position>
-        <Filename Value="Stagiaires/ustagiaires.pas"/>
-        <Caret Line="64" Column="43" TopLine="47"/>
+        <Filename Value="Inscription/uinscription.pas"/>
+        <Caret Line="59" Column="37" TopLine="53"/>
       </Position>
       <Position>
-        <Filename Value="Stagiaires/ustagiaires.pas"/>
-        <Caret Line="65" Column="43" TopLine="48"/>
+        <Filename Value="Inscription/uinscription.pas"/>
+        <Caret Line="60" Column="37" TopLine="54"/>
+      </Position>
+      <Position>
+        <Filename Value="Inscription/uinscription.pas"/>
+        <Caret Line="61" Column="37" TopLine="55"/>
+      </Position>
+      <Position>
+        <Filename Value="Inscription/uinscription.pas"/>
+        <Caret Line="62" Column="37" TopLine="56"/>
+      </Position>
+      <Position>
+        <Filename Value="Inscription/uinscription.pas"/>
+        <Caret Line="63" Column="37" TopLine="57"/>
+      </Position>
+      <Position>
+        <Filename Value="Inscription/uinscription.pas"/>
+        <Caret Line="64" Column="37" TopLine="58"/>
+      </Position>
+      <Position>
+        <Filename Value="Inscription/uinscription.pas"/>
+        <Caret Line="63" Column="37" TopLine="57"/>
+      </Position>
+      <Position>
+        <Filename Value="Inscription/uinscription.pas"/>
+        <Caret Line="64" Column="37" TopLine="58"/>
+      </Position>
+      <Position>
+        <Filename Value="Inscription/uinscription.pas"/>
+        <Caret Line="63" Column="37" TopLine="57"/>
       </Position>
     </JumpHistory>
     <RunParams>

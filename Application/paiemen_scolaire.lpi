@@ -25,6 +25,12 @@
     </RunParams>
     <RequiredPackages>
       <Item>
+        <PackageName Value="zcomponent"/>
+      </Item>
+      <Item>
+        <PackageName Value="FCL"/>
+      </Item>
+      <Item>
         <PackageName Value="LCL"/>
       </Item>
     </RequiredPackages>
@@ -38,6 +44,7 @@
         <Filename Value="Principale/uprincipale.pas"/>
         <IsPartOfProject Value="True"/>
         <ComponentName Value="FrmPrincipale"/>
+        <HasResources Value="True"/>
         <ResourceBaseClass Value="Form"/>
         <UnitName Value="uPrincipale"/>
       </Unit>
@@ -45,6 +52,7 @@
         <Filename Value="Configuration/uconfiguration.pas"/>
         <IsPartOfProject Value="True"/>
         <ComponentName Value="FrmConfiguration"/>
+        <HasResources Value="True"/>
         <ResourceBaseClass Value="Form"/>
         <UnitName Value="uConfiguration"/>
       </Unit>
@@ -52,8 +60,16 @@
         <Filename Value="Stagiaires/ustagiaires.pas"/>
         <IsPartOfProject Value="True"/>
         <ComponentName Value="FrmStagiaires"/>
+        <HasResources Value="True"/>
         <ResourceBaseClass Value="Form"/>
         <UnitName Value="uStagiaires"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Inscription/uinscription.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FrmInscription"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uInscription"/>
       </Unit>
     </Units>
   </ProjectOptions>
@@ -64,7 +80,7 @@
     </Target>
     <SearchPaths>
       <IncludeFiles Value="$(ProjOutDir)"/>
-      <OtherUnitFiles Value="Principale;Configuration;Stagiaires"/>
+      <OtherUnitFiles Value="Principale;Configuration;Stagiaires;Inscription"/>
       <UnitOutputDirectory Value="lib/$(TargetCPU)-$(TargetOS)"/>
     </SearchPaths>
     <Linking>

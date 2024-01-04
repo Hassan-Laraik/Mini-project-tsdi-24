@@ -10,7 +10,7 @@ uses
   athreads,
   {$ENDIF}
   Interfaces, // this includes the LCL widgetset
-  Forms, uPrincipale, uConfiguration, uStagiaires
+  Forms, zcomponent, uPrincipale, uConfiguration, uStagiaires, uInscription
   { you can add units after this };
 
 {$R *.res}
@@ -22,6 +22,7 @@ begin
   Application.CreateForm(TFrmPrincipale, FrmPrincipale);
   Application.CreateForm(TFrmConfiguration, FrmConfiguration);
   Application.CreateForm(TFrmStagiaires, FrmStagiaires);
+  Application.CreateForm(TFrmInscription, FrmInscription);
   Application.Run;
 end.
 

@@ -13,22 +13,22 @@ type
   { TFrmStagiaires }
 
   TFrmStagiaires = class(TForm)
-    Button1: TButton;
-    Button2: TButton;
-    Button3: TButton;
-    Button4: TButton;
-    Button5: TButton;
-    Button6: TButton;
-    DBDateEdit1: TDBDateEdit;
-    DBEdit1: TDBEdit;
-    DBEdit2: TDBEdit;
-    DBEdit3: TDBEdit;
-    DBEdit4: TDBEdit;
-    DBEdit5: TDBEdit;
+    BtbRechercher: TButton;
+    BtnSupprimer: TButton;
+    BtnNouveau: TButton;
+    BtnModifier: TButton;
+    BtnAnnuler: TButton;
+    BtnValider: TButton;
+    DbedtNaissance: TDBDateEdit;
+    DbedtCode: TDBEdit;
+    DbedtNom: TDBEdit;
+    DbedtPrenom: TDBEdit;
+    DbedtGSM: TDBEdit;
+    DbedtAdresse: TDBEdit;
     DBGrid1: TDBGrid;
     DBMemo1: TDBMemo;
-    DBMemo2: TDBMemo;
-    Edit1: TEdit;
+    DbedtPhoto: TDBImage;
+    EcdtRechercher: TEdit;
     Label1: TLabel;
     Label2: TLabel;
     Label3: TLabel;
@@ -43,6 +43,7 @@ type
     Panel3: TPanel;
     Panel4: TPanel;
     Panel5: TPanel;
+    Panel6: TPanel;
     TabSheet1: TTabSheet;
     TabSheet2: TTabSheet;
     procedure FormShow(Sender: TObject);
